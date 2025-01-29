@@ -39,3 +39,7 @@ p{
   border-radius:13px;
   box-shadow:10px 10px lightblue;
 }
+* {
+user-select: none;
+-webkit-user-select: none;
+}
