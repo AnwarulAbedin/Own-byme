@@ -1,0 +1,34 @@
+body{
+  background-color:#FOEBD8;
+}
+#bittu{
+  background-color:#0D1321;
+  color:#FFF;
+  height:34px;
+  width:90px;
+  border-radius:15px;
+  border:2px solid gold;
+  text-align:center;
+}
+#box{
+  margin-top:10px;
+  height:100px;
+  width:100%;
+  border:2px solid black;
+  border-radius:20px;
+  box-shadow: 2px px black;
+}
+h1{
+  line-height:3px;
+  font-family:serif;
+  text-align:center;
+}
+h2{
+  font-family:serif;
+  text-align:center;
+  font-size:40px;
+  line-height:4px;
+  text-decoration:underline;
+  text-decoration-color:green;
+  text-underline-offset:10px;
+}
