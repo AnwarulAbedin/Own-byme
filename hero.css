@@ -139,4 +139,7 @@ l{
   background-size:cover;
   margin-top:80px;
 }
-
+* {
+user-select: none;
+-webkit-user-select: none;
+}
