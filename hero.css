@@ -22,7 +22,7 @@ body{
   display:inline;
   font-family:serif;
   text-align:center;
-  margin-left:85px;
+  
 }
 #s2{
   font-family:serif;
@@ -54,7 +54,7 @@ h3{
   text-align:center;
   background-color:black;
   color:white;
-  margin-left:120px;
+  
   padding:10px;
   border-radius:12px;
   border:2px solid white;
