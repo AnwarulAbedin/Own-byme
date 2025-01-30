@@ -17,9 +17,9 @@ body{
   margin-top:10px;
   height:100px;
   width:100%;
-  border:2px solid black;
+  border:2px solid white;
   border-radius:20px;
-  box-shadow: 2px px #FFFFFF;
+  box-shadow: 2px px black;
 }
 h1{
   line-height:3px;
