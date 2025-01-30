@@ -2,7 +2,10 @@ body{
   background-color:#121619;
   text-align:center;
   color:white;
-  
+  display:flex;
+  justify-content:center;
+  align-items:center;
+  flex-direction: column;
 }
 #bittu{
   background-color:#0D1321;
@@ -20,6 +23,10 @@ body{
   border:2px solid white;
   border-radius:20px;
   box-shadow: 2px px black;
+  display:flex;
+  justify-content:center;
+  align-items:center;
+  flex-direction: column;
 }
 h1{
   line-height:3px;
