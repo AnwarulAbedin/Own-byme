@@ -50,6 +50,7 @@ user-select: none;
   align-items:center;
   display:flex;
   flex-direction:column;
+  border-radius:15px;
 }
 button{
   border:2px solid black;
