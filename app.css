@@ -22,12 +22,14 @@ body{
   border:2px solid white;
   border-radius:20px;
   box-shadow: 2px px black;
+  color:white;
   
 }
 h1{
   line-height:3px;
   font-family:serif;
   text-align:center;
+  color:white
 }
 h2{
   font-family:serif;
