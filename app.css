@@ -42,3 +42,39 @@ h2{
 user-select: none;
 -webkit-user-select: none;
 }
+#calculator{
+  background-color:black;
+  max-width:500px;
+  margin-top:30px;
+  font-family:serif;
+  align-items:center;
+  display:flex;
+  flex-direction:column;
+}
+button{
+  border:2px solid black;
+  border-radius:50px;
+  height:80px;
+  width:80px;
+  font-size:30px;
+  padding:6px;
+}
+#n{
+  background-color:orange;
+  color:white;
+  font-size:40px;
+}
+#display{
+  width:100%;
+  box-sizing: border-box;
+  height:60px;
+  color:white;
+  background-color:#393E41;
+  font-size:30px;
+}
+#b{
+  margin-top:30px;
+  text-decoration:underline;
+  text-decoration-color:green;
+  text-underline-offset:10px;
+}
