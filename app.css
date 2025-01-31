@@ -19,7 +19,7 @@ body{
   margin-top:10px;
   height:100px;
   width:100%;
-  border:2px solid black;
+  border:2px solid white;
   border-radius:20px;
   box-shadow: 2px px black;
   
@@ -37,6 +37,7 @@ h2{
   text-decoration:underline;
   text-decoration-color:green;
   text-underline-offset:10px;
+  color:white;
 }
 * {
 user-select: none;
@@ -81,4 +82,5 @@ button{
   text-decoration:underline;
   text-decoration-color:green;
   text-underline-offset:10px;
+  color:white;
 }
