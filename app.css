@@ -50,7 +50,7 @@ user-select: none;
   align-items:center;
   display:flex;
   flex-direction:column;
-  border-radius:15px;
+  border-radius:20px;
 }
 button{
   border:2px solid black;
@@ -73,6 +73,8 @@ button{
   background-color:#393E41;
   font-size:30px;
   font-family:serif;
+  border-top-left-radius:20px;
+  border-top-right-radius:20px;
 }
 #b{
   margin-top:30px;
